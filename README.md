@@ -1,15 +1,3 @@
-# file-system-manager-cli
+# FILE SYSTEM MANAGER CLI
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.8. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+#### This is a simple but quite useful cli app for understand Node.js fs module. I have created it using Node.js and Bun.js because Bun has not fully implemented Node.js fs api yet in [01-04-2025]
