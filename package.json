@@ -1,0 +1,22 @@
+{
+  "name": "file-system-manager-cli",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun --watch src/index.ts",
+    "start": "bun src/index.ts"
+  },
+  "author": {
+    "name": "Mohammad Aman",
+    "url": "https://github.com/mohammad-1105"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
